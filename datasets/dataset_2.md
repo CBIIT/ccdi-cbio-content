@@ -12,4 +12,4 @@ The variants in each VCF file were ran thru the vcf2maf tool, which employs the 
 
 The individual MAF files were then concatenated into a single MAF for loading into cBioPortal. The concatenated MAF was then filtered to retain only mutations that were marked as passing all quality filters in the VCF.
 
-Note: This data filtering approach may not match other CCDI/GDC data sources.
+**Note:** *This data filtering approach may not match other CCDI/GDC data sources.*
