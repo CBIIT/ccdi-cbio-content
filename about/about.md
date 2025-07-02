@@ -6,7 +6,7 @@ cBioPortal is an open-source, web-based platform designed to explore cancer data
 - Explore findings without the need to download or process large datasets
 - Facilitate collaborative and translational research by bridging basic science and clinical insights
 
-The pilot version of CCDI cBioPortal Cancer Data Explorer includes mutation data extracted from the genomic variant files of the [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI) (MCI). Over time, additional data will be added from the growing collection available in the [CCDI Data Hub](https://ccdi.cancer.gov/explore?study_name=Molecular%20Characterization%20Initiative).
+The pilot version of CCDI cBioPortal Cancer Data Explorer includes mutation data extracted from the genomic variant files of the [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI) (MCI). Over time, additional data will be added from the growing collection available in the [CCDI Data Hub](https://ccdi.cancer.gov/explore).
 
 ## Contact
 
