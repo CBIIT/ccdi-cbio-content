@@ -1,4 +1,4 @@
-## Version v1.2.0
+## Version v1.1.0
 ### September 2025 
 With the latest release, we have expanded the data available in the Molecular Characterization Initiative dataset. Additions include copy number data for 3,607 participants, more clinical data properties (MGMT Methylation Status, Methylation Diagnosis Subclass, Sample Percent Necrosis, Sample Percent Tumor, Treatment Response, and Treatment Agent), and Reported Significance annotation on the mutation data. See the [Dataset Updates](dataset-updates) section for more information on these data. 
 
