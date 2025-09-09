@@ -1,9 +1,5 @@
 ## Version v1.1.0
 ### September 2025 
-We are excited to announce that the Childhood Cancer Data Initiative (CCDI) cBioPortal instance is now available!
+With the latest release, we have expanded the data available in the Molecular Characterization Initiative dataset. Additions include copy number data for 3,607 participants, more clinical data properties (MGMT Methylation Status, Methylation Diagnosis Subclass, Sample Percent Necrosis, Sample Percent Tumor, Treatment Response, and Treatment Agent), and Reported Significance annotation on the mutation data. See the [Dataset Updates](dataset-updates) section for more information on these data. 
 
-
-This initial release is based on the cBioPortal code version [6.0.24](https://github.com/cBioPortal/cbioportal/releases/tag/v6.0.24). We have added a customized header and footer.
-
-
-This initial release includes clinical and mutation data from 3,613 participants in the [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI). See the [Dataset Updates](dataset-updates) section for more information on these datasets. 
+We have also addressed seven newly identified vulnerabilities. In addition, we made several improvements to the site’s design and usability, including updates to responsive styles to enhance the mobile experience, refreshed footer links, and other adjustments to the header and footer. We also improved the readability and overall presentation of the About page. 
