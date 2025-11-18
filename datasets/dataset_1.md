@@ -30,3 +30,12 @@ To enable downstream discrete CNV analyses, gene-level log2 fold change values w
 *	Gain: log2 > 0.3 (CN > 2.3)
 *	Deletion: log2 < –0.3 (CN < 1.62) 
 *	Homozygous Deletion: log2 < –1.0 (CN < 1)
+
+### Structural Variant Data (December 2025)
+The MCI structural variant data was sourced from fusion events in the IGM fusion clinical reports. The data elements for each fusion included from reports were:
+*	The gene symbol, exon number, chromosome, and position on chromosome for the 5’ and 3’ fusion partner. 
+*	The pathogenicity classification guideline and pathogenicity classification of the fusion.
+
+Data were then mapped to the cBioPortal structural variant data file format with appropriate columns for required data. 
+*	Filtered out several events that had fusions to intergenic regions for 3’ partner, as these would not be recognized by cBioPortal as valid fusion events to load.
+*	One fusion did not specify location in genome to 3’ gene exon 1 (participant PBBRYJ), so the start position of exon 1 was used as the location for fusion CIC-DUX4.
