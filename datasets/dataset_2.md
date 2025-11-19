@@ -1,1 +1,2 @@
-
+## Open Pediatric Cancer (OpenPedCan) Project v15
+The Open Pediatric Cancer (OpenPedCan) v15 data was [downloaded directly](https://kf-strides-cbioportal-studies-public.s3.amazonaws.com/public/openpedcan_v15.tar.gz) from the [Peds cBioPortal](https://pedcbioportal.kidsfirstdrc.org/datasets) instance. The existing participant-level data was then supplemented with links to the same participants in the [CCDI Hub](https://ccdi.cancer.gov/explore).
