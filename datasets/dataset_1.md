@@ -34,7 +34,7 @@ To enable downstream discrete CNV analyses, gene-level log2 fold change values w
 *	Homozygous Deletion: log2 < –1.0 (CN < 1)
 
 
-### Structural Variant Data (December 2025)
+### Structural Variant Data
 The MCI structural variant data was sourced from fusion events in the IGM fusion clinical reports. The data elements for each fusion included from reports were:
 *	The gene symbol, exon number, chromosome, and position on chromosome for the 5’ and 3’ fusion partner. 
 *	The pathogenicity classification guideline and pathogenicity classification of the fusion.
