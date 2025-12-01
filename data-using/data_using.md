@@ -1,5 +1,5 @@
 ## Data Use Expectations
-Users of the data must explicitly agree not to attempt to re-identify patients and cannot redistribute the data without express written permission from the CCDI leadership <a href="ncichildhoodcancerdatainitiative@mail.nih.gov">Send Email</a>.
+Users of the data must explicitly agree not to attempt to re-identify patients and cannot redistribute the data without express written permission from the CCDI leadership <a href="ncichildhoodcancerdatainitiative@mail.nih.gov"> (ncichildhoodcancerdatainitiative@mail.nih.gov)</a>.
 
 ## How to View Underlying Raw Data in the CCDI Hub
 
