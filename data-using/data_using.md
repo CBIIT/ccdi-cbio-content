@@ -9,6 +9,6 @@ In the CCDI Hub Explore dashboard, open the Demographics facet, click Upload Par
 
 ## Citing the CCDI cBioPortal
 
-The data shown here are, in whole or in part, derived from analyses of data listed in the CCDI Hub ([ccdi.cancer.gov](https://ccdi.cancer.gov/)). When using data accessed through the CCDI cBioPortal in presentations or manuscripts, please acknowledge the source as follows:
+When using data accessed through the CCDI cBioPortal in presentations or manuscripts, please acknowledge the source as follows:
 
 *"The results analyzed and &lt;published or shown&gt; here are based in whole or in part on data accessed through the CCDI cBioPortal, established by the Childhood Cancer Data Initiative (CCDI)."*
