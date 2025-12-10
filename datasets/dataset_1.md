@@ -2,7 +2,7 @@
 CCDI’s [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI) (MCI) underlying raw sequencing, clinical, and imaging data can be searched through the [CCDI Hub Explore](https://ccdi.cancer.gov/explore?dbgap_accession=phs002790). Controlled-access data is available via dbGaP authorization under accession number [phs002790](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790).
 
 ### Clinical Data
-The clinical data, including Cancer Type and Cancer Type Detailed, were provided by the Children’s Oncology Group. MGMT Methylation Status, Methylation Diagnosis Subclass, Percent Tumor, and Percent Necrosis were sourced from reports provided by the Nationwide Children’s Hospital’s Steve and Cindy Rasmussen Institute for Genomic Medicine (NCH-IGM).
+The clinical data, including Cancer Type and Cancer Type Detailed, were provided by the Children’s Oncology Group. MGMT Methylation Status, Methylation Classification Subclass, Percent Tumor, and Percent Necrosis were sourced from reports provided by the Nationwide Children’s Hospital’s Steve and Cindy Rasmussen Institute for Genomic Medicine (NCH-IGM).
 
 
 ### Mutation Data
