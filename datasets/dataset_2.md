@@ -1,0 +1,2 @@
+## Open Pediatric Cancer (OpenPedCan) Project v15
+The Open Pediatric Cancer (OpenPedCan) v15 data was prepared and formatted for cBioPortal ingestion by the team at Children's Hospital of Philadelphia (CHOP). The existing participant-level data was then supplemented with links to the same participants in the [CCDI Hub](https://ccdi.cancer.gov/explore). To learn more about how the dataset was prepared, please refer to this [publication](https://pubmed.ncbi.nlm.nih.gov/40891528/) and this [GitHub documentation](https://github.com/d3b-center/OpenPedCan-analysis).
