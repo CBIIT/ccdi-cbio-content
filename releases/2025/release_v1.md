@@ -5,6 +5,7 @@
         align-items: center;
         flex-wrap: wrap;
         width: 100%;
+        margin-bottom: 0.375rem;
     "
 >
     <h2
