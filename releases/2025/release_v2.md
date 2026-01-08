@@ -15,7 +15,6 @@
             font-size: 1rem;
             font-weight: 700;
             line-height: 1;
-            margin: 0 0 6px;
         "
     >Version v1.1.0</h2>
     <h3
