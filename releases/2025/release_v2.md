@@ -24,6 +24,7 @@
             align-self: stretch;
             margin-block: auto;
             font-size: 0.875rem;
+            font-weight: 400;
             line-height: 1;
         "
     >September 2025</h3>
