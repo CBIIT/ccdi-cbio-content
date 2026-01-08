@@ -13,7 +13,6 @@
             align-self: stretch;
             margin-block: auto;
             font-size: 1rem;
-            line-height: calc(1.5 / 1);
             font-weight: 700;
             line-height: 1;
             margin: 0 0 6px;
@@ -25,7 +24,6 @@
             align-self: stretch;
             margin-block: auto;
             font-size: 0.875rem;
-            line-height: calc(1.25 / 0.875);
             line-height: 1;
         "
     >December 2025</h3>
