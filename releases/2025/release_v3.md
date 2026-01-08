@@ -4,7 +4,7 @@
         justify-content: space-between;
         align-items: center;
         flex-wrap: wrap;
-        gap: 2.5rem;
+        gap: calc(2.5rem);
         width: 100%;
     "
 >
