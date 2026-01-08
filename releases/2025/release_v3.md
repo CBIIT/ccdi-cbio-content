@@ -6,10 +6,6 @@
         flex-wrap: wrap;
         gap: 2.5rem;
         width: 100%;
-
-        @media (width >= 768px) {
-            max-width: 100%;
-        }
     "
 >
     <h2
