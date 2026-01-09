@@ -1,4 +1,12 @@
-<div class="flex flex-wrap gap-10 justify-between items-center w-full max-md:max-w-full text-sky-800 mb-1.5">
+<div
+    class="gap-10 w-full max-md:max-w-full text-sky-800 mb-1.5"
+    style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    "
+>
     <h2 class="self-stretch my-auto text-base font-bold leading-none">Version v1.0.0</h2>
     <h3 class="self-stretch my-auto text-sm font-normal leading-none">July 2025</h3>
 </div>
