@@ -9,7 +9,7 @@
     "
 >
     <h2
-        className="self-stretch my-auto text-sm leading-none text-sky-800"
+        class="self-stretch my-auto text-sm leading-none text-sky-800"
     >Version v1.0.0</h2>
     <h3
         style="
