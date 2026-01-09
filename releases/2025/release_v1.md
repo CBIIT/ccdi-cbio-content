@@ -1,26 +1,6 @@
-<div
-    style="
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-wrap: wrap;
-        width: 100%;
-        margin-bottom: 0.375rem;
-    "
->
-    <h2
-        class="self-stretch my-auto text-sm leading-none text-sky-800"
-    >Version v1.0.0</h2>
-    <h3
-        style="
-            color: oklch(44.3% 0.11 240.79);
-            align-self: stretch;
-            margin-block: auto;
-            font-size: 0.875rem;
-            font-weight: 400;
-            line-height: 1;
-        "
-    >July 2025</h3>
+<div class="flex flex-wrap gap-10 justify-between items-center w-full max-md:max-w-full text-sky-800 mb-1.5">
+    <h2 class="self-stretch my-auto text-base font-bold leading-none">Version v1.0.0</h2>
+    <h3 class="self-stretch my-auto text-sm font-normal leading-none">July 2025</h3>
 </div>
 
 We are excited to announce that the Childhood Cancer Data Initiative (CCDI) cBioPortal instance is now available!
