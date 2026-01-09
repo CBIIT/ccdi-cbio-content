@@ -9,14 +9,7 @@
     "
 >
     <h2
-        style="
-            color: oklch(44.3% 0.11 240.79);
-            align-self: stretch;
-            margin-block: auto;
-            font-size: 1rem;
-            font-weight: 700;
-            line-height: 1;
-        "
+        className="self-stretch my-auto text-sm leading-none text-sky-800"
     >Version v1.0.0</h2>
     <h3
         style="
