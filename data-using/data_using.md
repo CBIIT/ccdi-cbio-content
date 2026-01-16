@@ -10,7 +10,7 @@ To explore the underlying sequencing, imaging, or other raw data associated with
         <div class="relative border border-[#4a8497] border-solid w-full sm:min-w-[504px] sm:min-h-[227px] sm:mx-auto aspect-[647.5/292] overflow-hidden lg:shadow-[2px_6px_15px_0_rgba(0,0,0,0.25)]">
             <div class="absolute inset-0 overflow-hidden pointer-events-none">
                 <img
-                    src="../images/cBioStudyClinicalData.png"
+                    src="https://raw.githubusercontent.com/CBIIT/ccdi-cbio-content/CBIO-460/images/cBioStudyClinicalData.png"
                     alt="Image of cBioPortal Clinical Data tab screenshot"
                     class="absolute h-[130.9%] left-[-3%] max-w-none top-[-1.45%] w-[102.91%] object-contain"
                 />
@@ -19,7 +19,7 @@ To explore the underlying sequencing, imaging, or other raw data associated with
         <div class="absolute right-[18.6%] top-[28.1%] lg:left-[67.8%] lg:top-[28.1%] lg:right-auto w-[13.6%] h-auto aspect-[89.5/92.426]">
             <div class="relative w-full h-full">
                 <img
-                    src="../images/annotationArrow.svg"
+                    src="https://raw.githubusercontent.com/CBIIT/ccdi-cbio-content/CBIO-460/images/annotationArrow.svg"
                     alt="Image of cBioPortal Clinical Data tab screenshot"
                     class="block max-w-none w-full h-full object-contain"
                     style="width: 90px; height: 93px;"
@@ -39,7 +39,7 @@ In the CCDI Hub Explore dashboard, open the Demographics facet, click Upload Par
         <div class="relative border border-[#4a8497] border-solid w-full sm:min-w-[504px] sm:min-h-[227px] sm:mx-auto aspect-[647.5/292] overflow-hidden lg:shadow-[2px_6px_15px_0_rgba(0,0,0,0.25)]">
             <div class="absolute inset-0 overflow-hidden pointer-events-none">
                 <img
-                    src="../images/ccdiExploreDashboard.png"
+                    src="https://raw.githubusercontent.com/CBIIT/ccdi-cbio-content/CBIO-460/images/ccdiExploreDashboard.png"
                     alt="Image of CCDI Hub Explore dashboard screenshot"
                     class="absolute h-[171.99%] left-0 max-w-none top-[0.61%] w-[135.22%] object-contain"
                 />
@@ -48,7 +48,7 @@ In the CCDI Hub Explore dashboard, open the Demographics facet, click Upload Par
         <div class="absolute left-[25.5%] top-[33.4%] w-[13.6%] h-auto aspect-[89.5/92.426]">
             <div class="relative w-full h-full">
                 <img
-                    src="../images/annotationArrow.svg"
+                    src="https://raw.githubusercontent.com/CBIIT/ccdi-cbio-content/CBIO-460/images/annotationArrow.svg"
                     alt="Image of Annotation arrow pointing to Upload Participants Set"
                     class="block max-w-none w-full h-full object-contain"
                     style="width: 90px; height: 93px;"
