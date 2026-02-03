@@ -1,9 +1,21 @@
-## Version v1.0.0
-### July 2025 
+<div
+    class="gap-10 w-full max-md:max-w-full text-sky-800"
+    style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-bottom: 0.375rem;
+    "
+>
+    <h2 class="self-stretch my-auto text-base font-bold leading-none">Version v1.0.0</h2>
+    <h3 class="self-stretch my-auto text-sm font-normal leading-none">July 2025</h3>
+</div>
+
 We are excited to announce that the Childhood Cancer Data Initiative (CCDI) cBioPortal instance is now available!
 
 
 This initial release is based on the cBioPortal code version [6.0.24](https://github.com/cBioPortal/cbioportal/releases/tag/v6.0.24). We have added a customized header and footer.
 
 
-This initial release includes clinical and mutation data from 3,613 participants in the [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI). See the [Dataset Updates](dataset-updates) section for more information on these datasets. 
+This initial release includes clinical and mutation data from 3,613 participants in the [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI). See the [Dataset Updates](dataset-updates) section for more information on these datasets.
