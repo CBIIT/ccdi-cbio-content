@@ -35,17 +35,17 @@
       {
         "title": "Version v1.0.0",
         "id": "ccdi-cbio-content-releases-2025-1",
-        "path": "releases/2025/release_v1.md"
+        "path": "releases/2025/release_v1.0.md"
       },
       {
         "title": "Version v1.1.0",
         "id": "ccdi-cbio-content-releases-2025-2",
-        "path": "releases/2025/release_v2.md"
+        "path": "releases/2025/release_v1.1.md"
       },
       {
         "title": "Version v1.2.0",
         "id": "ccdi-cbio-content-releases-2025-3",
-        "path": "releases/2025/release_v3.md"
+        "path": "releases/2025/release_v1.2.md"
       }
     ],
     "2026": [
