@@ -20,14 +20,19 @@
       "path": "datasets/dataset_1.md"
     },
     {
-      "title": "Open Pediatric Cancer (OpenPedCan) Project v15",
+      "title": "NCI-COG Pediatric MATCH Precision Medicine Clinical Trial",
       "id": "ccdi-cbio-content-dataset-2",
       "path": "datasets/dataset_2.md"
     },
     {
-      "title": "Pediatric solid tumor PDXs (UTHSA - UT Health San Antonio, 2023)",
+      "title": "Open Pediatric Cancer (OpenPedCan) Project v15",
       "id": "ccdi-cbio-content-dataset-3",
       "path": "datasets/dataset_3.md"
+    },
+    {
+      "title": "Pediatric solid tumor PDXs (UTHSA - UT Health San Antonio, 2023)",
+      "id": "ccdi-cbio-content-dataset-4",
+      "path": "datasets/dataset_4.md"
     }
   ],
   "releases": {
@@ -35,17 +40,24 @@
       {
         "title": "Version v1.0.0",
         "id": "ccdi-cbio-content-releases-2025-1",
-        "path": "releases/2025/release_v1.md"
+        "path": "releases/2025/release_v1.0.md"
       },
       {
         "title": "Version v1.1.0",
         "id": "ccdi-cbio-content-releases-2025-2",
-        "path": "releases/2025/release_v2.md"
+        "path": "releases/2025/release_v1.1.md"
       },
       {
         "title": "Version v1.2.0",
         "id": "ccdi-cbio-content-releases-2025-3",
-        "path": "releases/2025/release_v3.md"
+        "path": "releases/2025/release_v1.2.md"
+      }
+    ],
+    "2026": [
+      {
+        "title": "Version v1.3.0",
+        "id": "ccdi-cbio-content-releases-2026-1",
+        "path": "releases/2026/release_v1.3.md"
       }
     ]
   },
