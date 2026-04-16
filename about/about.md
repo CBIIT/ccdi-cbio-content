@@ -1,13 +1,15 @@
-To make complex genomic data more accessible, the Childhood Cancer Data Initiative (CCDI) is launching a user-friendly instance of cBioPortal that allows users — regardless of computational expertise — to explore and analyze without needing to download or process large datasets.
+The Childhood Cancer Data Initiative (CCDI) has launched an instance of cBioPortal to make complex pediatric, adolescent, and young adult (AYA) cancer genomic data more accessible. This platform enables researchers and clinicians, including those without bioinformatics expertise, to explore and analyze data and answer questions about the molecular characteristics of childhood cancers without needing to download or process large datasets. 
 
-cBioPortal is an [open-source](https://about.cbioportal.org/), web-based platform designed to explore cancer data from large studies. Users can search by gene, mutation, cancer type, or patient and quickly visualize relationships, patterns, and trends in the data. CCDI's customized instance "CCDI cBioPortal Cancer Data Explorer" is tailored to support pediatric cancer researchers and clinicians by enabling them to:
+cBioPortal is an [open-source](https://about.cbioportal.org/), web-based platform designed to explore cancer data from large studies. Users can select one or more datasets and query by gene, mutation, cancer type, or participant and quickly visualize relationships, patterns, and trends in the data.
+
+The CCDI-specific instance, "CCDI cBioPortal Cancer Data Explorer," is tailored to support pediatric and AYA cancer researchers and clinicians by enabling them to:
 
 - Access standardized genomic and clinical data
-- Explore findings without the need to download or process large datasets
+- Explore and visualize data without complex pre-processing
 - Facilitate collaborative and translational research by bridging basic science and clinical insights
 
-The pilot version of CCDI cBioPortal Cancer Data Explorer includes mutation data extracted from the genomic variant files of the [Molecular Characterization Initiative](https://ccdi.cancer.gov/MCI) (MCI). Over time, additional data will be added from the growing collection available in the [CCDI Data Hub](https://ccdi.cancer.gov/explore).
+CCDI cBioPortal Cancer Data Explorer includes clinical and omics data extracted from a subset of studies available through the [CCDI Explore Dashboard](https://ccdi.cancer.gov/explore). The instance will continue to expand as additional data are processed and added from the growing CCDI Data Ecosystem.
 
 ## Contact
 
-For more information, email us at NCIChildhoodCancerDataInitiative@mail.nih.gov.
+The NCI's Childhood Cancer Data Initiative (CCDI) is committed to supporting the pediatric and AYA cancer research community. Your contributions are valuable to enhancing the user experience. We value your input and are here to help you with any questions or feedback. Please contact us at NCIChildhoodCancerDataInitiative@mail.nih.gov.

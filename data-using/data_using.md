@@ -1,11 +1,15 @@
 ## Data Use Expectations
-Users of the data must explicitly agree not to attempt to re-identify patients and cannot redistribute the data without express written permission from the CCDI leadership <a href="ncichildhoodcancerdatainitiative@mail.nih.gov"> (ncichildhoodcancerdatainitiative@mail.nih.gov)</a>.
+Users of the data must explicitly agree not to attempt to re-identify patients and cannot redistribute the data without express written permission from the CCDI leadership (ncichildhoodcancerdatainitiative@mail.nih.gov).
 
 ## How to View Underlying Raw Data in the CCDI Hub
 
 To explore the underlying sequencing, imaging, or other raw data associated with participants from cBioPortal, first download the Clinical Data file from the Clinical Data tab in cBioPortal. From the downloaded file, extract the Patient ID column.
 
+![Image of cBioPortal Clinical Data tab screenshot.](../images/cBioStudyClinicalData.png)
+
 In the CCDI Hub Explore dashboard, open the Demographics facet, click Upload Participants Set, and upload the file containing only the Patient IDs from cBioPortal.
+
+![Image of CCDI Hub Explore dashboard screenshot.](../images/ccdiExploreDashboard.png)
 
 ## Citing the CCDI cBioPortal
 
