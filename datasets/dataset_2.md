@@ -1,5 +1,5 @@
 ## NCI-COG Pediatric MATCH Precision Medicine Clinical Trial
-PedMATCH’s underlying raw sequencing data can be searched through the [CCDI Hub Explore](https://ccdi.cancer.gov/explore?dbgap_accession=phs002883). Controlled-access data is available via dbGaP authorization under [phs002883](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002883).
+PedMATCH’s underlying raw sequencing data can be searched through the [CCDI Explore Dashboard](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002883). Controlled-access data is available via dbGaP authorization under [phs002883](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002883).
 
 ### Clinical Data
 Clinical data, including diagnosis, diagnosis age, survival and treatments, were sourced from Children’s Oncology Group (COG)-provided clinical data files. 
