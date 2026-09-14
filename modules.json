@@ -33,6 +33,16 @@
       "title": "Pediatric solid tumor PDXs (UTHSA - UT Health San Antonio, 2023)",
       "id": "ccdi-cbio-content-dataset-4",
       "path": "datasets/dataset_4.md"
+    },
+        {
+      "title": "CCSS Therapy-Related Mutation Signatures in Subsequent Neoplasms",
+      "id": "ccdi-cbio-content-dataset-5",
+      "path": "datasets/dataset_5.md"
+    },
+    {
+      "title": "Genomic Sequencing of Pediatric Cancer Cases (CMRI/KUCC)",
+      "id": "ccdi-cbio-content-dataset-6",
+      "path": "datasets/dataset_6.md"
     }
   ],
   "releases": {
