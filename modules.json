@@ -83,7 +83,12 @@
         "title": "Version v1.4.1", 
         "id": "ccdi-cbio-content-releases-2026-4", 
         "path": "releases/2026/release_v1.4.1.md" 
-      }      
+      },
+      { 
+        "title": "Version v1.5.0", 
+        "id": "ccdi-cbio-content-releases-2026-5", 
+        "path": "releases/2026/release_v1.5.md" 
+      }     
     ]
   },
   "images": [
