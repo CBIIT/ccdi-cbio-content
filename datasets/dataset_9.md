@@ -1,5 +1,5 @@
 ## Immunotranscriptomic Landscape of Pediatric Extracranial Solid Tumors
-The RNASeq Landscape Manuscript dataset presents an immuno-transcriptomic profiling of extracranial pediatric solid malignancies from the Khan Lab (National Cancer Institute, Genetics Branch), as published in Brohl et al. Cell Rep 2021 ([PMID 34818552](https://pubmed.ncbi.nlm.nih.gov/34818552/)). Underlying raw sequencing and clinical data can be searched through the [CCDI Explore Dashboard](https://ccdi.cancer.gov/explore). The cohort comprises 1,253 samples across 752 patients spanning 14 diagnoses including neuroblastoma, rhabdomyosarcoma, Ewing sarcoma, osteosarcoma, Wilms tumor, hepatoblastoma, synovial sarcoma, and desmoplastic small round cell tumor, among others.
+This dataset presents an immunotranscriptomic profiling of extracranial pediatric solid malignancies from the Khan Lab (National Cancer Institute, Genetics Branch), as published in Brohl et al. Cell Rep 2021 ([PMID 34818552](https://pubmed.ncbi.nlm.nih.gov/34818552/)). Underlying raw sequencing and clinical data can be searched through the [CCDI Explore Dashboard](https://ccdi.cancer.gov/explore). The cohort comprises 1,253 samples across 752 patients spanning 14 diagnoses including neuroblastoma, rhabdomyosarcoma, Ewing sarcoma, osteosarcoma, Wilms tumor, hepatoblastoma, synovial sarcoma, and desmoplastic small round cell tumor, among others.
 
 
 ### Clinical Data
@@ -11,8 +11,9 @@ The RNASeq Landscape mutation data was derived from somatic variant calls genera
 
 The following steps were used to process the mutation data:
 1. Raw PASS-filtered somatic VCFs from WXS and RNA-Seq variant callers were annotated and converted to mutation annotation format (MAF). High-confidence filters were applied including 2+ caller consensus, minimum coverage, and variant allele frequency (VAF) thresholds consistent with Brohl 2021.
-2. Tier 1 RNA-Seq somatic calls were expanded to include all sub-tiers (1.1 through 1.4), with 39,013 WXS rows and 12,076 Tier 1 RNA-Seq rows loaded into the final MAF. An analysis_source field was added to each record to distinguish mutations sourced from WXS versus Tier 1 RNA-Seq calling.
-3. Upon data loading, cBioPortal [automatically filters out](https://docs.cbioportal.org/file-formats/#variant-classification-filter) variants classified as Silent, Intron, IGR, 3'UTR, 5'UTR, 3'Flank, and 5'Flank, except for promoter mutations of the TERT gene.
+2. Tier 1 RNA-Seq somatic calls were expanded to include all sub-tiers (1.1 through 1.4), with 39,007 WXS rows and 11,529 Tier 1 RNA-Seq rows loaded into the final MAF. An analysis_source field was added to each record to distinguish mutations sourced from WXS versus Tier 1 RNA-Seq calling.
+3. Mutations that overlapped germline variants were removed from the final MAF, because germline data cannot be shared through the portal at this time. Overlaps were identified by matching chromosome, position, reference allele, alternate allele, and sample. In total, 553 mutations were removed (547 Tier 1 RNA-Seq and 6 WXS), and the row counts above reflect this removal.
+4. Upon data loading, cBioPortal [automatically filters out](https://docs.cbioportal.org/file-formats/#variant-classification-filter) variants classified as Silent, Intron, IGR, 3'UTR, 5'UTR, 3'Flank, and 5'Flank, except for promoter mutations of the TERT gene.
 
 
 ### Copy Number Data
