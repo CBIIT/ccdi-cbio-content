@@ -43,7 +43,22 @@
       "title": "Genomic Sequencing of Pediatric Cancer Cases (CMRI/KUCC)",
       "id": "ccdi-cbio-content-dataset-6",
       "path": "datasets/dataset_6.md"
-    }
+    },
+          {
+        "title": "Genomic Landscape of Rhabdomyosarcoma",
+        "id": "ccdi-cbio-content-dataset-7",
+        "path": "datasets/dataset_7.md"
+      },
+      {
+        "title": "Tumor Mutational Burden and the Immune Landscape of Glioma",
+        "id": "ccdi-cbio-content-dataset-8",
+        "path": "datasets/dataset_8.md"
+      },
+      {
+        "title": "Immunotranscriptomic Landscape of Pediatric Extracranial Solid Tumors",
+        "id": "ccdi-cbio-content-dataset-9",
+        "path": "datasets/dataset_9.md"
+      }
   ],
   "releases": {
     "2025": [
